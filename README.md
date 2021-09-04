@@ -1,10 +1,8 @@
 #TextUtils App
 
-#Create New App
-npx create-react-app newapp
+#Create New App npx create-react-app newapp
 
-#Run Server
-npm start  or  npm run start
+#Run Server npm start or npm run start
 
 #BootStrap for page designing
 
